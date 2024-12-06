@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+transformers
+torch
+sentencepiece
+langchain
+langchain-community
+langchain_openai
+google-cloud-aiplatform
+google-cloud-translate
+langchain_huggingface
