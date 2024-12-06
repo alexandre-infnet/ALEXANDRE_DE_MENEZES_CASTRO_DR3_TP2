@@ -11,3 +11,5 @@ pip install -r requirements.txt
 
 Para rodar a api, rode dentro da pasta src:
 uvicorn main:app
+
+Não esqueça de adicionar suas chaves de acesso do HuggingFace e do OpenAI
